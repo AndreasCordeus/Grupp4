@@ -2,3 +2,8 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Hello, Grupp 4!");
+
+KontrollSiffranUträkning.RäknaSistaSiffran();
+
+
+
