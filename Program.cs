@@ -5,5 +5,7 @@ Console.WriteLine("Hello, Grupp 4!");
 
 KontrollSiffranUträkning.RäknaSistaSiffran();
 
+Console.WriteLine("Hello, Grupp 4! test linus");
+
 
 
