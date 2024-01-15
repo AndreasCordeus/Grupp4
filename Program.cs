@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+WriteLine("Hello, World!");
 
-Console.WriteLine("Hello, Grupp 4!");
+WriteLine("Hello, Grupp 4!");
 
 KontrollSiffranUträkning.RäknaSistaSiffran();
 
