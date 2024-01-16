@@ -6,9 +6,9 @@ class HereWeGo {
         while (mainLoop) { 
 
 
-            string personNummer = UserInputs.PersonNummerInput();
+            string? personNummer = UserInputs.SocialSecurityNumberInput();
 
-
+            LastNumberCalculation.TestSocialSecurityNumber(personNummer);
 
         }
     }
