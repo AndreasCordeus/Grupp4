@@ -13,3 +13,5 @@ Produkterna ska sedan splittras upp och adderas;
 Denna summa subtraheras från närmast högre tiotal, eller från sig självt om den är jämnt delbar med 10. Detta kan beskrivas som en modulus 10-operation: (10 - (44 % 10)) % 10 = 6
 
 Kontrollsiffran f är alltså 6 och hela personnumret blir 811218-9876.
+
+test merge linus
