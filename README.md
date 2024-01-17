@@ -14,6 +14,6 @@ Denna summa subtraheras från närmast högre tiotal, eller från sig självt om
 
 Kontrollsiffran f är alltså 6 och hela personnumret blir 811218-9876.
 
-test merge linus
+test merge linus ANDRA GÅNGEN
 
 test merge adde
