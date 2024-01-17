@@ -16,7 +16,7 @@ class UserInputs {
                     
                     loop1 = false;
                     return personNummerInput;
-                    
+
                 }
 
                 else { throw new FormatException(); }
@@ -30,7 +30,7 @@ class UserInputs {
             }
         }
         return null;
-            
+
     }
 
     public static bool IsDigitsOnly(string str) 
