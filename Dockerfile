@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY ./bin/Debug/net8.0/ .
 
-CMD ["dotnet", "personnr.dll"]
+CMD ["dotnet", "Grupp4.dll"]
