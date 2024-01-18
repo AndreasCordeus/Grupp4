@@ -21,3 +21,9 @@ jobs:
 
     - name: Run Unit tests
       run: dotnet test
+
+    - name: build
+      run: dotnet build
+    
+    - name: Build docker image
+      run: docker build -t andreascordeus/Grupp4-docker
