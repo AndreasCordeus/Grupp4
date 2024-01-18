@@ -25,5 +25,10 @@ jobs:
     - name: build
       run: dotnet build
     
-    - name: Build docker image
-      run: docker build -t andreascordeus/grupp4-docker .
+    - name: login to dockerhub
+      run: docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_TOKEN }}
+
+    - name: Build and push docker image
+      run: |
+        docker build -t andreascordeus/grupp4-docker .
+        docker push andreascordeus/grupp4-docker
