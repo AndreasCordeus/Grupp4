@@ -26,4 +26,4 @@ jobs:
       run: dotnet build
     
     - name: Build docker image
-      run: docker build -t andreascordeus/Grupp4-docker
+      run: docker build -t andreascordeus/grupp4-docker .
