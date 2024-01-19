@@ -2,21 +2,17 @@ Grupp 4.
 
 För att testa lokalt följ nedan steg:
 
-   1. Använd Gitbash eller liknande för att klona ner projektet med kommando git clone https://github.com/AndreasCordeus/Grupp4.git       --- kanske lägga till något om hur man ställer sig i rätt källa i gitbash?
+   1. Använd Gitbash eller liknande för att klona ner projektet med kommando git clone https://github.com/AndreasCordeus/Grupp4.git
 	   alternativt ladda ner Zip genom att trycka på den gröna "Code" rutan i github och Download Zip.
    2. Öppna mappen med Visual studio eller Visual studio code.
    3. Kör programmet genom terminalen genom att skriva "Dotnet run".
    4. Programmet kommer nu i terminalen be dig skriva in ett personnummer för att sedan testa om det stämmer.
 
 För att testa via docker följ nedan steg:
-   1.
-   2.
-   3.
-   4.
+
 
 
 Hur svenska personnummer fungerar:
-
 
 Den näst sista siffran i ett svensk personnummer alltså: xxxxxx-xx0x där 0:an representerar den siffra bestämmer kön på personen.
 Är det ett jämnt nummer är personen en kvinna, ett udda nummer är personen en man.
